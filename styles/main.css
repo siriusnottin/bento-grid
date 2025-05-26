@@ -2,20 +2,15 @@
 @import './attribution.css';
 
 @font-face {
-	font-family: 'Outfit';
-	src: url('../fonts/Outfit/Outfit-VariableFont_wght.ttf') format('truetype');
+	font-family: 'DM Sans';
+	src: url('../assets/fonts/DM_Sans/DMSans-VariableFont_opsz,wght.ttf')
+		format('truetype');
 	font-display: swap;
+	font-weight: 400 500;
 }
 
 :root {
-	--font-main-font: 'Outfit', sans-serif;
-	--color-slate-300: #d5e1ef;
-	--color-slate-500: #68778d;
-	--color-slate-900: #1f314f;
-	--color-white: #fff;
-	--spacing-500: 2.5rem;
-	--spacing-300: 1.5rem;
-	--spacing-200: 1rem;
+	--font-main-font: 'DM Sans', sans-serif;
 }
 
 html {
