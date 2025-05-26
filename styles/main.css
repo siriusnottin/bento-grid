@@ -11,6 +11,12 @@
 
 :root {
 	--font-main-font: 'DM Sans', sans-serif;
+	--color-purple-100: #dacffc;
+	--color-purple-500: #7650dc;
+	--color-yellow-100: #f9eee1;
+	--color-yellow-500: #ffcb6b;
+	--color-white: #f9eee1;
+	--color-black: #121212;
 }
 
 html {
